@@ -28,8 +28,13 @@ python LinearRegression.py filename.tx
 Output
 -------
 filename.png which contains the Linear Regression plot <br />
-Additional print with model parameters<br />
-            SERIESA<br />
-				       Coefficients:  2.4<br />
-			        Residual sum of squares: 6.00<br />
-				      Variance score: 0.91<br />
+Additional print with model parameters : <br /> <br />
+            &nbsp;&nbsp;&nbsp;SERIESA<br />
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Coefficients:  2.4<br />
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Residual sum of squares: 6.00<br />
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Variance score: 0.91<br />
+		<p align="center">
+  <img src="https://github.com/NamithaGS/LinearRegression/blob/master/dataSimple.txt.png" width="350"/>
+
+</p>
+
